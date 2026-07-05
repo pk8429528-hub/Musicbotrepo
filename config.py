@@ -27,9 +27,9 @@ BOT_TOKEN = getenv("BOT_TOKEN")
 
 # Bot and owner info
 OWNER_USERNAME = getenv("OWNER_USERNAME", "your_aadiii")
-BOT_USERNAME = getenv("BOT_USERNAME", "@aadimusicrobot")
-BOT_NAME = getenv("BOT_NAME", "SAPNA")
-ASSUSERNAME = getenv("ASSUSERNAME", "aadiXassistant")
+BOT_USERNAME = getenv("BOT_USERNAME", "@picomusicrobot")
+BOT_NAME = getenv("BOT_NAME", "pico music")
+ASSUSERNAME = getenv("ASSUSERNAME", "saniyaxassistant")
 
 # MongoDB
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
