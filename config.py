@@ -95,7 +95,7 @@ DEBUG_IGNORE_LOG = True
 
 START_IMG_URL = getenv("START_IMG_URL", "https://files.catbox.moe/qkykym.jpg")
 PING_IMG_URL = getenv("PING_IMG_URL", "https://files.catbox.moe/cm212o.jpg")
-Upload via URL
+
 Login | Regis
 
 LOGIN_REGISTER_TEXT = "Login | Register"
